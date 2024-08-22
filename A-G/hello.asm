@@ -1,5 +1,3 @@
-; note: only uses system calls, so this can run on BIOS real mode
-
 global _start
 
 section .data
