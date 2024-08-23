@@ -4,3 +4,6 @@
 
 ## C / C++
 - Assumes you have header files "stdio.h" and "iostream", since they are part of the STD library
+
+## B
+The ``.b`` file extension is my own WIP language. I still included it.
